@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "secureos/CreateContactViewController.swift"
+            timestampString = "563661725.595845"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "addContactPushed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in secureos.CreateContactViewController.addContactPushed(Any) -&gt; ()"
+                  moduleName = "secureos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilo/Documents/Development/Workspaces/Xcode/eos/secureos/secureos/CreateContactViewController.swift"
+                  timestampString = "563658140.522342"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in secureos.CreateContactViewController.addContactPushed(Any) -&gt; ()"
+                  moduleName = "secureos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilo/Documents/Development/Workspaces/Xcode/eos/secureos/secureos/CreateContactViewController.swift"
+                  timestampString = "563658140.5256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
